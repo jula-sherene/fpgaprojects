@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_or_gate_time_impl.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_or_gate" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="200.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="73"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wave_markers>
+      <marker time="100000" label="" />
+      <marker time="103989" label="" />
+      <marker time="300000" label="" />
+      <marker time="400000" label="" />
+      <marker time="403638" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_or_gate/and_orA" type="logic">
+      <obj_property name="ElementShortName">and_orA</obj_property>
+      <obj_property name="ObjectShortName">and_orA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_or_gate/and_orB" type="logic">
+      <obj_property name="ElementShortName">and_orB</obj_property>
+      <obj_property name="ObjectShortName">and_orB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_or_gate/orOut" type="logic">
+      <obj_property name="ElementShortName">orOut</obj_property>
+      <obj_property name="ObjectShortName">orOut</obj_property>
+   </wvobject>
+</wave_config>
