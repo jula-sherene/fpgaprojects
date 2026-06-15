@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"OR_GATE": {
+			"proto_instances": {
+			}
+		}
+	}
+}

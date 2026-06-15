@@ -1,0 +1,9 @@
+verilog xil_defaultlib -i "../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../comphardwt_project_1/comphardwt_project_1.ip_user_files/bd/bd_and_gate/ip/bd_and_gate_util_vector_logic_0_0_1/sim/bd_and_gate_util_vector_logic_0_0.v" \
+"../../../comphardwt_project_1/comphardwt_project_1.ip_user_files/bd/bd_and_gate/sim/bd_and_gate.v" \
+"../../../comphardwt_project_1/comphardwt_project_1.gen/sources_1/bd/bd_and_gate/hdl/bd_and_gate_wrapper.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

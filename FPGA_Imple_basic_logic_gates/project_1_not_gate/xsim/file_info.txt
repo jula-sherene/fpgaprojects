@@ -1,0 +1,5 @@
+BD_NOT_GATE_util_vector_logic_0_0.v,verilog,xil_defaultlib,../../../comphardwt_project_1_not_gate/comphardwt_project_1_not_gate.ip_user_files/bd/BD_NOT_GATE/ip/BD_NOT_GATE_util_vector_logic_0_0/sim/BD_NOT_GATE_util_vector_logic_0_0.v,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+BD_NOT_GATE.v,verilog,xil_defaultlib,../../../comphardwt_project_1_not_gate/comphardwt_project_1_not_gate.ip_user_files/bd/BD_NOT_GATE/sim/BD_NOT_GATE.v,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+BD_NOT_GATE_wrapper.v,verilog,xil_defaultlib,../../../../../../comphardwt_project_1_not_gate/comphardwt_project_1_not_gate.gen/sources_1/bd/BD_NOT_GATE/hdl/BD_NOT_GATE_wrapper.v,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+TB_BD_NOT_GATE.vhd,vhdl,xil_defaultlib,../../../../../../comphardwt_project_1_not_gate/comphardwt_project_1_not_gate.srcs/sim_1/new/TB_BD_NOT_GATE.vhd,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,5 @@
+bd_and_gate_util_vector_logic_0_0.v,verilog,xil_defaultlib,../../../comphardwt_project_1/comphardwt_project_1.ip_user_files/bd/bd_and_gate/ip/bd_and_gate_util_vector_logic_0_0_1/sim/bd_and_gate_util_vector_logic_0_0.v,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+bd_and_gate.v,verilog,xil_defaultlib,../../../comphardwt_project_1/comphardwt_project_1.ip_user_files/bd/bd_and_gate/sim/bd_and_gate.v,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+bd_and_gate_wrapper.v,verilog,xil_defaultlib,../../../../../../comphardwt_project_1/comphardwt_project_1.gen/sources_1/bd/bd_and_gate/hdl/bd_and_gate_wrapper.v,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+tb_bd_and_gate.vhd,vhdl,xil_defaultlib,../../../../../../comphardwt_project_1/comphardwt_project_1.srcs/sim_1/new/tb_bd_and_gate.vhd,incdir="../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

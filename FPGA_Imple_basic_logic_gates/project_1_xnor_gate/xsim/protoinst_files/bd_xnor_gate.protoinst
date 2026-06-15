@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"bd_xnor_gate": {
+			"proto_instances": {
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../comphardwt_project_1_xor_gates/comphardwt_project_1_xor_gates.srcs/sim_1/new/tb_xor_gate.vhd" \
+
+# Do not sort compile order
+nosort

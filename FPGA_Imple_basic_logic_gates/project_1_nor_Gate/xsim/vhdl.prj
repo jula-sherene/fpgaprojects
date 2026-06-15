@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../comphardwt_project_1_nor_gate/comphardwt_project_1_nor_gate.srcs/sim_1/new/tb_bd_nor_gate.vhd" \
+
+# Do not sort compile order
+nosort
