@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2  -L xil_defaultlib -L secureip -L xpm --snapshot TB_NOT_GATE1 xil_defaultlib.TB_NOT_GATE1 -log elaborate.log

@@ -1,0 +1,6 @@
+vhdl xil_defaultlib  \
+"C:/Users/julas/Downloads/xsim/srcs/sources_1/new/NOT_GATE.vhd" \
+"C:/Users/julas/Downloads/xsim/srcs/sim_1/new/TB_NOT_GATE1.vhd" \
+
+# Do not sort compile order
+nosort

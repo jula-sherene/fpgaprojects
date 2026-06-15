@@ -1,0 +1,2 @@
+NOT_GATE.vhd,vhdl,xil_defaultlib,C:/Users/julas/AppData/Roaming/Xilinx/Vivado/incdir="C:/Xilinx/2025.1/Vivado/data/rsb/busdef"/srcs/NOT_GATE.vhd,incdir="C:/Xilinx/2025.1/Vivado/data/rsb/busdef"
+TB_NOT_GATE1.vhd,vhdl,xil_defaultlib,C:/Users/julas/AppData/Roaming/Xilinx/Vivado/incdir="C:/Xilinx/2025.1/Vivado/data/rsb/busdef"/srcs/TB_NOT_GATE1.vhd,incdir="C:/Xilinx/2025.1/Vivado/data/rsb/busdef"
